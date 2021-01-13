@@ -4,7 +4,7 @@ Pure HTML+CSS+JS
 
 Solo Landing Page, Texto Animado, Nav Scroll, Links
 
-* [Ver Demo](https://htmlpreview.github.io/?https://github.com/GuidoFavara/Fitness-Landing/blob/master/index.html)
+* [Ver Demo](https://guido-fitness-landing.netlify.app/)
 
 
 #Full Screen:
